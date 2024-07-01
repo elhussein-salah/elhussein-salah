@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm El-Hussein Salah</h1>
-<h3 align="center">A passionate backend developer from egypt</h3>
+<h3 align="center">Software Engineer | Backend Developer.</h3>
 <h3 align="left">My Stats:</h3>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elhussein-salah&theme=gruvbox)](https://git.io/streak-stats)
