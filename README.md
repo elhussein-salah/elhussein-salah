@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm El-Hussein Salah</h1>
 <h3 align="center">Software Engineer | Backend Developer.</h3>
-<h3 align="left">My Stats:</h3>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=elhussein-salah&theme=gruvbox)](https://git.io/streak-stats)
+![](https://komarev.com/ghpvc/?username=elhussein-salah&color=blueviolet)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/elhusseinsalah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="elhusseinsalah" height="30" width="40" /></a>
