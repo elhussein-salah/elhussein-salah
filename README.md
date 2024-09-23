@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm El-Hussein Salah</h1>
-<h3 align="center">Software Engineer | Data Scientist</h3>
+<h3 align="center">Software Engineer</h3>
 
 ![](https://komarev.com/ghpvc/?username=elhussein-salah&color=blueviolet)
 
