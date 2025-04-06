@@ -26,7 +26,7 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,tailwind,bootstrap,js,pytorch,tensorflow,python,flask,django,typescript,react,git,linux,postman&perline=13"/>
+    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,tailwind,bootstrap,js,pytorch,tensorflow,python,flask,django,typescript,angular,git,linux,postman&perline=13"/>
   </p>
 <hr>
 
