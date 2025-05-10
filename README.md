@@ -28,6 +28,7 @@
   <p align="left">
     <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,tailwind,bootstrap,js,pytorch,tensorflow,python,flask,fastapi,typescript,angular,git,linux,postman&perline=13"/>
   </p>
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=elhussein-salah&show_icons=true&locale=en&layout=compact" />
 <hr>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/logicbreak3r.png" alt="TryHackMe">
