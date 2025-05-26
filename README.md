@@ -19,7 +19,7 @@
 
 <h3 align="left">💎 About Me:</h3>
   <p align="left">🔹 AI & Deep Learning – Designing machine learning models and NLP applications.🔆
-  <p align="left">🔹 Software Engineering – Writing clean, optimized code with C# (.NET) and Python(Django). 👌
+  <p align="left">🔹 Software Engineering – Writing clean, optimized code with C# (.NET) and Python(FastAPI). 👌
   <p align="left">🔹 Scalable Application Development – Implementing object-oriented, design pattern principles and cloud-based solutions.
   <p align="left">I'm motivated by creativity, and I pursue further education and career opportunities in software engineering field. ✨
   </p>
