@@ -17,17 +17,20 @@
     <img src="https://www.kaggle.com/static/images/site-logo.svg" height="70"/>
   </p>
 
-<h3 align="left">💎 About Me:</h3>
-  <p align="left">🔹 AI & Deep Learning – Designing machine learning models and NLP applications.🔆
-  <p align="left">🔹 Software Engineering – Writing clean, optimized code with C# (.NET) and Python(FastAPI). 👌
-  <p align="left">🔹 Scalable Application Development – Implementing object-oriented, design pattern principles and cloud-based solutions.
-  <p align="left">I'm motivated by creativity, and I pursue further education and career opportunities in software engineering field. ✨
-  </p>
+### 💎 About Me
 
+- 🔹 **AI & Deep Learning** – Building ML models and NLP applications using PyTorch, TensorFlow, and Hugging Face 🤖  
+- 🔹 **Software Engineering** – Writing clean, scalable code in **C# (.NET)** and **Python (FastAPI & Django)** 💡  
+- 🔹 **Cloud & Scalable Apps** – Applying OOP, design patterns, Docker, and cloud-based deployments ☁️  
+- 🎯 I'm driven by creativity, and always on a journey of learning and growth in the AI & Software engineering world ✨
+
+---
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,dotnet,html,css,tailwind,bootstrap,js,pytorch,tensorflow,python,flask,fastapi,typescript,angular,git,linux,postman&perline=13"/>
+    <img src="https://skillicons.dev/icons?i=cpp,java,php,laravel,cs,dotnet,html,css,tailwind,bootstrap,js,docker,pytorch,tensorflow,python,flask,fastapi,typescript,angular,git,linux,postman&perline=13"/>
   </p>
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="Hugging Face" />
+
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=elhussein-salah&show_icons=true&locale=en&layout=compact" />
 <hr>
 
